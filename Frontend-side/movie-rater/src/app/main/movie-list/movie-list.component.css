@@ -1,0 +1,17 @@
+div {
+    font-family: 'Roboto', sans-serif;
+}
+
+.movie-items {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+}
+.movie-items fa-icon {
+    font-size: 1.2em;
+    margin: 15px 5px;
+    cursor: pointer;
+}
+
+#trash {
+    color: crimson;
+}

@@ -1,0 +1,19 @@
+span {
+    font-family: 'Roboto', sans-serif;
+}
+fa-icon.orange {
+    color: orange;
+}
+
+fa-icon.palevioletred {
+    color: palevioletred;
+}
+
+#rating {
+    border-top: 2px solid palevioletred;
+}
+
+#rating fa-icon {
+    cursor: pointer;
+    font-size: 2em;
+}
