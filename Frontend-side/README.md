@@ -1,2 +1,2 @@
-# Frontend side of the site
+# Frontend side of the website 
 
