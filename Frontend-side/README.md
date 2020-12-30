@@ -1,2 +1,2 @@
-# Movie-rater web application 
+# Frontend side of the site
 
