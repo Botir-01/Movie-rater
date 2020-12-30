@@ -1,2 +1,2 @@
-# movie-rater
-Movie-rater web application 
+# Movie-rater web application 
+
